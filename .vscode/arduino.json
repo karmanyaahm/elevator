@@ -1,0 +1,6 @@
+{
+    "sketch": "elevator.ino",
+    "configuration": "cpu=atmega168",
+    "board": "arduino:avr:nano",
+    "port": "/dev/ttyUSB0"
+}
